@@ -9,7 +9,7 @@ import java.util.TreeMap;
 
 import com.hs.tree.Node;
 
-// With this question we can solve other 2 problem, botto view and top view
+// With this question we can solve other 2 problem, bottom view and top view
 // for bottom view we need to return last element at each level
 // for top view we need to return first element at each level
 public class VerticalTraversal {
